@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-body > div,
+body > div.d-grid,
 .card {
   background: #000080;
   border: none;

@@ -34,7 +34,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Solo**
+👤 **Rose**
 
 - GitHub: [@githubhandle](https://github.com/Solo7991)
 
